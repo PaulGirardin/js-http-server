@@ -1,0 +1,14 @@
+Front : 
+vueJS
+React
+AngularJS
+
+Back : 
+NodeJS
+
+
+ECMA est le standard de JS
+v5 standardisée en 2009
+v6 en 2015, plein de modifs depuis
+
+
